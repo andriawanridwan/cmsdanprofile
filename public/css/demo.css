@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
+body {
+  background: #ffffff;
+}
+header {
+  margin: 2em auto;
+  width: 750px;
+  height: 2em;
+  font-family: 'Cabin Sketch', cursive;
+}
+h1 {
+  float: left;
+  margin: 0;
+}
+a.github {
+  float: right;
+  margin-top: .1em;
+  display: block;
+  width: 2em;
+  height: 2em;
+  background-image: url(../images/github.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+div.photopile-wrapper {
+  margin: 75px auto;
+  width: 750px;
+}
